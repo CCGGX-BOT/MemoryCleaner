@@ -1,0 +1,11 @@
+# 构建产物日志（运行时生成）
+*.log
+*.txt.log
+
+# 测试/临时文件
+screenshot.png
+test_*.txt
+
+# 系统文件
+Thumbs.db
+Desktop.ini
